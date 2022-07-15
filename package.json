@@ -19,6 +19,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/social-followers": "file:./screens/social-followers/",
+    "@screens/social-profile": "file:./screens/social-profile/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
